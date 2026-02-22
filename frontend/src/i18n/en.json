@@ -1,0 +1,11 @@
+{
+  "generate_data": "Generate synthetic data",
+  "calculate": "Calculate risk",
+  "calculating": "Calculating...",
+  "calc_success": "Calculation successful!",
+  "calc_error": "Validation error",
+  "server_error": "Server error",
+  "result": "Calculation result",
+  "non_carcinogenic_risk_exceeded": "Non-carcinogenic risk EXCEEDED (HQ > 1)",
+  "carcinogenic_risk_exceeded": "Carcinogenic risk EXCEEDED (CR > 1×10⁻⁵)"
+}

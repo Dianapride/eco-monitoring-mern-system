@@ -1,0 +1,11 @@
+{
+  "generate_data": "Згенерувати синтетичні дані",
+  "calculate": "Розрахувати ризик",
+  "calculating": "Обчислення...",
+  "calc_success": "Розрахунок успішний!",
+  "calc_error": "Помилка валідації",
+  "server_error": "Помилка сервера",
+  "result": "Результат розрахунку",
+  "non_carcinogenic_risk_exceeded": "Неканцерогенний ризик ПЕРЕВИЩЕНО (HQ > 1)",
+  "carcinogenic_risk_exceeded": "Канцерогенний ризик ПЕРЕВИЩЕНО (CR > 1×10⁻⁵)"
+}
